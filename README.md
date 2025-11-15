@@ -69,7 +69,7 @@ Atualmente, estou a concluir a minha licenciatura em Engenharia Informática enq
     <li><strong>Principal Desafio:</strong> Deploy completo em ambiente de produção na AWS, incluindo configuração de HTTPS (Certbot) e Gunicorn.</li>
   </ul>
   <p>
-    <strong>[ 🚀 Ver Demo ao Vivo (Em construção) ]</strong>
+    <a href="https://tenorioteste.com" target="_blank">[ 🚀 Ver Demo ao Vivo ]</a>
     &nbsp;&nbsp;
     <a href="https://github.com/tenoriopedro/web-project" target="_blank">[ ➔ Ver Código Fonte ]</a>
   </p>
@@ -88,7 +88,7 @@ Atualmente, estou a concluir a minha licenciatura em Engenharia Informática enq
     <li><strong>Principal Funcionalidade:</strong> Interface interativa que permite adicionar objetos manualmente e apresentar dados do objeto detectado em tempo real.</li>
   </ul>
   <p>
-    <a href="https://github.com/tenoriopedro/YOLO-Interactive-Detection" target="_blank">[ ➔ Ver Código Fonte ]</a>
+    <a href="https://github.com/tenoriopedro/YOLO-Interactive-Detection" target="_blank">[ ➔ Ver Demo e Código Fonte ]</a>
   </p>
 </details>
 
@@ -106,7 +106,7 @@ Atualmente, estou a concluir a minha licenciatura em Engenharia Informática enq
     <li><strong>Principal Funcionalidade:</strong> Arquitetura em camadas, operações CRUD seguras e visualização de dados interativa.</li>
   </ul>
   <p>
-    <strong>[ 📊 Ver App Interativa (Em construção) ]</strong>
+    <a href="https://appapp-nn6fq8ue8qikftrqoi9kfm.streamlit.app/" target="_blank">[ 📊 Ver App Interativa ]</a>
     &nbsp;&nbsp;
     <a href="https://github.com/tenoriopedro/StreamlitApp" target="_blank">[ ➔ Ver Código (App) ]</a>
     &nbsp;&nbsp;

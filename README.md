@@ -69,8 +69,6 @@ Atualmente, estou a concluir a minha licenciatura em Engenharia Informática enq
     <li><strong>Principal Desafio:</strong> Deploy completo em ambiente de produção na AWS, incluindo configuração de HTTPS (Certbot) e Gunicorn.</li>
   </ul>
   <p>
-    <a href="https://tenorioteste.com" target="_blank">[ 🚀 Ver Demo ao Vivo ]</a>
-    &nbsp;&nbsp;
     <a href="https://github.com/tenoriopedro/web-project" target="_blank">[ ➔ Ver Código Fonte ]</a>
   </p>
 </details>

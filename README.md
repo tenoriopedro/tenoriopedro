@@ -1,6 +1,6 @@
 # Pedro Tenório
 
-## Junior Data Engineer | Computer Engineering Student
+## Data Engineer | Computer Engineering Student
 
 Focused on building efficient data pipelines, out-of-core processing, and infrastructure optimization. My goal is to design data ingestion and transformation systems that operate predictably and resiliently, minimizing I/O and computational costs.
 

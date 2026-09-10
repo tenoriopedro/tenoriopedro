@@ -1,10 +1,10 @@
 # Pedro Tenório
 
-## Data Engineer | Computer Engineering Student
+## Data & Infrastructure Engineer
 
-Focused on building efficient data pipelines, out-of-core processing, and infrastructure optimization. My goal is to design data ingestion and transformation systems that operate predictably and resiliently, minimizing I/O and computational costs.
+Data and Infrastructure Engineer specializing in building resilient pipelines and optimizing cloud environments. My core focus is bridging the gap between raw data ingestion and highly available infrastructure, ensuring that systems operate predictably while strictly minimizing AWS computational and I/O costs.
 
-Currently completing a Bachelor's degree in Computer Engineering, while deepening my knowledge in distributed systems fundamentals, analytical database modeling, and Edge architectures.
+Currently managing production architectures, implementing secure Docker containerization, and automating CI/CD workflows to eliminate manual deployment risks. I prioritize scalable relational modeling (PostgreSQL/MySQL) and robust DataOps practices to protect system integrity and deliver tangible operational stability.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tenono-pedro" target="_blank">
@@ -21,8 +21,8 @@ Currently completing a Bachelor's degree in Computer Engineering, while deepenin
 
 *   **Languages & Formats:** Python (Strict Typing), SQL, Apache Parquet.
 *   **Processing & I/O:** PyArrow, Pydantic, Out-of-Core Memory Management.
-*   **Infrastructure & Deployment:** Linux (POSIX, Bash), Docker, AWS EC2, PostgreSQL.
-*   **Machine Learning (Edge):** OpenVINO, YOLOv8, OpenCV (CPU/Integrated GPU Inference Optimization).
+*   **Infrastructure & Deployment:** Linux (POSIX, Bash), Docker, AWS EC2, PostgreSQL/MySQL.
+*   **Edge Analytics:** OpenVINO, YOLOv8, OpenCV (Inference Optimization).
 
 ---
 
@@ -47,16 +47,16 @@ Currently completing a Bachelor's degree in Computer Engineering, while deepenin
 
 <details open>
   <summary>
-    <strong>2. Advanced Python Laboratory & CPython Internals</strong>
+    <strong>2. Relational Modeling & Bulk Ingestion Implementation</strong>
   </summary>
   <br>
-  <p>Repository focused on the internal mechanics of the language and strict software engineering patterns.</p>
+  <p>Demonstration of strict relational database modeling, data integrity validation, and isolated infrastructure orchestration.</p>
   <ul>
-    <li><strong>Focus:</strong> Package architecture, Tooling (uv, Ruff), strict static typing (Pyright/Mypy), and optimized data structures.</li>
-    <li><strong>Goal:</strong> Abandon the basic syntax of isolated scripts and apply SOLID principles and encapsulation in modern Python code.</li>
+    <li><strong>Stack:</strong> PostgreSQL, Python, Docker, ORM.</li>
+    <li><strong>Engineering Decision:</strong> Implementation of business rules at the model level, execution of bulk ingestion scripts (CSV to DB), and container orchestration with persistent dedicated volumes to ensure data survival across rebuilds.</li>
   </ul>
   <p>
-    <a href="https://github.com/tenoriopedro/Advanced-Python-Learning" target="_blank">[ ➔ Explore Laboratory ]</a>
+    <a href="https://github.com/tenoriopedro/flix_api" target="_blank">[ ➔ View Infrastructure Code ]</a>
   </p>
 </details>
 
@@ -64,15 +64,15 @@ Currently completing a Bachelor's degree in Computer Engineering, while deepenin
 
 <details open>
   <summary>
-    <strong>3. Movie Catalog API (Client-Server Architecture)</strong>
+    <strong>3. Advanced Python Laboratory</strong>
   </summary>
   <br>
-  <p>Demonstration of relational modeling, strict validation, and data exposure via RESTful services.</p>
+  <p>Repository focused on the internal mechanics of the language and strict DataOps software engineering patterns.</p>
   <ul>
-    <li><strong>Stack:</strong> Python, Django REST Framework, PostgreSQL, JWT, Docker.</li>
-    <li><strong>Engineering Decision:</strong> Implementation of business rules at the model and serializer level, bulk ingestion scripts (CSV to DB), and container orchestration with dedicated volumes.</li>
+    <li><strong>Focus:</strong> Package architecture, Tooling (uv, Ruff), strict static typing (Pyright/Mypy), and optimized data structures.</li>
+    <li><strong>Goal:</strong> Abandon basic scripting syntax to apply SOLID principles, encapsulation, and scalable system design.</li>
   </ul>
   <p>
-    <a href="https://github.com/tenoriopedro/flix_api" target="_blank">[ ➔ View API Source Code ]</a>
+    <a href="https://github.com/tenoriopedro/Advanced-Python-Learning" target="_blank">[ ➔ Explore Laboratory ]</a>
   </p>
 </details>
